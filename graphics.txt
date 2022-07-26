@@ -1,0 +1,10 @@
+gwenview
+kamera
+kcolorchooser
+kdegraphics-thumbnailers
+kimagemapeditor
+kolourpaint
+kruler
+okular
+skanlite
+svgpart

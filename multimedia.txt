@@ -1,0 +1,7 @@
+audiocd-kio
+elisa
+ffmpegthumbs
+kamoso
+kdenlive
+kmix
+kwave

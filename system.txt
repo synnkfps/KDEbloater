@@ -1,0 +1,4 @@
+kcron
+khelpcenter
+ksystemlog
+kwalletmanager

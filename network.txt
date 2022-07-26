@@ -1,0 +1,10 @@
+kdeconnect
+kdenetwork-filesharing
+kio-extras
+kio-gdrive
+konversation
+kopete
+krfb
+ktorrent
+signon-kwallet-extension
+zeroconf-ioslave
