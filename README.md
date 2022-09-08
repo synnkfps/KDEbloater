@@ -1,10 +1,10 @@
 ### KDEbloater
-KDEbloater or KDE debloater, removes bloatware from KDE Plasma automatically
+KDEbloater or KDE debloater, removes bloatware from KDE Plasma automatically (made for Arch-based distros (needs pacman))
 
 ### how to use
 download as zip
 1. open terminal where you extracted the files
-2. `sh K\ DEbloater.sh`
+2. `sh kDEBLOATER.sh`
 3. you might get asked for sudo permissions, press `y`
 
 ### VERY IMPORTANT
